@@ -177,7 +177,37 @@
       "id": 22
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "username": "ramu",
+      "cartItems": [],
+      "id": 1
+    },
+    {
+      "username": "ramu",
+      "cartItems": [
+        {
+          "name": "Xtra Strong",
+          "price": "420",
+          "imgUrl": "https://www.ruf-erotic.com/wp-content/uploads/2020/05/XTRA-STRONG_PACKAGING-BW.jpg",
+          "company": "Devan",
+          "category": "Body Building",
+          "id": 1,
+          "count": 3
+        },
+        {
+          "name": "Daimond King",
+          "price": "450",
+          "imgUrl": "https://th.bing.com/th/id/OIP.ZPdWc7aipjQnxdfVKln23wHaHa?w=185&h=185&c=7&r=0&o=5&dpr=2&pid=1.7",
+          "company": "UltraTech Cements",
+          "category": "Cement",
+          "id": 2,
+          "count": 4
+        }
+      ],
+      "id": 2
+    }
+  ],
   "intrestrates": [
     {
       "tenuretype": "months",
